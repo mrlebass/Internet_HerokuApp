@@ -13,10 +13,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-545454?style=flat&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-545454?style=flat&logo=linux)
 
+📝 **Gherkin:**
 
-## Feature: Login
+### Feature: Login
 
-### Scenario 1: Login Successful
+#### Scenario 1: Login Successful
 
 - Objective: Login the user to the system
 
@@ -29,7 +30,7 @@
             3- Click on the "ENTER" button <br>
             4- The system should display the following message: "Login Successful" and direct the user to the system's home page <br>
 
-### Scenario 2: Login Not Completed
+#### Scenario 2: Login Not Completed
 
 - Objective: Not to log a user into the system
 
@@ -42,8 +43,7 @@
          3- Click on the "ENTER" button <br>
          4- The system should display the following message: "Invalid username and/or password! Please check" and remain on the same page <br>
 
-
-### Scenario 3: Forgot Password
+#### Scenario 3: Forgot Password
 
 - Objective: Check the Forgot Password functionality 
 
