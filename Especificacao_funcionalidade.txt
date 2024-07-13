@@ -30,7 +30,7 @@
 
 Cenário3: Esquecimento de Senha
 
-* Objetivo: Verificar a funcionalidade ESquecimento de senha 
+* Objetivo: Verificar a funcionalidade Esquecimento de senha 
 
 - Pré-Condições:
 1- Usuário Usuário deve possuir cadastro e senha ao Sistema da Creditas.
