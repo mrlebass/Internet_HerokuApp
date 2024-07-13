@@ -1,5 +1,0 @@
-Apesar de já ter lido, nunca trabalhei com  Cucumber, Capybara e Ruby, por isso tivesse que estudar as mesmas para conseguir resolver o desafio.
-Trabelhei com linguagem Java e frameworks próprios das empresas que atuei.
-Infelizmente não obtive sucesso com o exercício 3 do desafio de automação, por conta do prazo (onde aproveitei pra aprender Ruby),
-e por trabalhar com testes de API apenas para testes de performance.
-
