@@ -101,5 +101,7 @@ To add new dependencies to the project, add them to the Gemfile and run:
 Contributions are welcome! Feel free to open issues and pull requests.
 
 ```vbnet
-This `README.md` provides clear instructions on how to set up and run tests with Ruby and Cucumber, along with additional information about the project structure and useful commands. Let me know if you need any modifications or additions!
+This `README.md` provides clear instructions on how to set up and run tests with Ruby and Cucumber,
+along with additional information about the project structure and useful commands.
+Let me know if you need any modifications or additions!
 ```
