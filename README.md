@@ -5,7 +5,7 @@
 <div align="left" />
 <br> </br>
 
-🛠️ ** Tech Stack:**
+🛠️ **Tech Stack:**
 
 ![ruby](https://img.shields.io/badge/-ruby-CC342D?style=flat&logo=ruby)
 ![cucumber](https://img.shields.io/badge/-cucumber-23D96C?style=flat&logo=cucumber&labelColor=FFFFFF)
